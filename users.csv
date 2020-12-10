@@ -1,0 +1,5 @@
+first_name,second_name,mail,roles,phones
+fam,sam,fam@sam.am,USER;ADMIN,37511 1231231;37512 2131231
+lemon,blue,blu@lem.com,SUPER_ADMIN,37511 1231231;37512 3211231;37532 1233211
+sa,ns,sa@ns.com,CUSTOMER;null,37511 1233211
+asd,dsa,asd@dsa.com,null;ADMIN,37512 3217891
